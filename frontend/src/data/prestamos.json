@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "usuario_id": 2,
+    "dispositivo_id": 2,
+    "usuario_nombre": "Maria",
+    "usuario_apellido": "Lopez",
+    "dispositivo_nombre": "Dell XPS 13 9340",
+    "fecha_prestamo": "2025-09-18T10:42:00Z",
+    "fecha_devolucion_esperada": "2025-09-18T17:55:00Z",
+    "fecha_devolucion_real": "2025-09-18T17:55:00Z",
+    "estado": "Devuelto"
+  },
+  {
+    "id": 2,
+    "usuario_id": 2,
+    "dispositivo_id": 3,
+    "usuario_nombre": "Maria",
+    "usuario_apellido": "Lopez",
+    "dispositivo_nombre": "Lenovo ThinkPad X1",
+    "fecha_prestamo": "2025-08-30T09:03:00Z",
+    "fecha_devolucion_esperada": "2025-09-01T17:55:00Z",
+    "fecha_devolucion_real": "2025-09-01T17:55:00Z",
+    "estado": "Devuelto"
+  },
+  {
+    "id": 3,
+    "usuario_id": 3,
+    "dispositivo_id": 1,
+    "usuario_nombre": "Carlos",
+    "usuario_apellido": "Perez",
+    "dispositivo_nombre": "MacBook Pro 16\"",
+    "fecha_prestamo": "2025-09-25T06:29:00Z",
+    "fecha_devolucion_esperada": "2025-09-25T18:00:00Z",
+    "fecha_devolucion_real": null,
+    "estado": "Activo"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "MacBook Pro 16\"",
+    "tipo": "Laptop",
+    "serial": "MBP3P-7R2K9Q14",
+    "estado": "Activo",
+    "ubicacion": "Ambiente 4110",
+    "fecha_ingreso": "2025-09-25T06:29:00Z",
+    "imagen_url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&q=80&w=200"
+  },
+  {
+    "id": 2,
+    "nombre": "Dell XPS 13 9340",
+    "tipo": "Laptop",
+    "serial": "XPS9340-AP41T6M2",
+    "estado": "Devuelto",
+    "ubicacion": "Recepcion",
+    "fecha_ingreso": "2025-09-18T10:42:00Z",
+    "imagen_url": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&q=80&w=200"
+  },
+  {
+    "id": 3,
+    "nombre": "Lenovo ThinkPad X1",
+    "tipo": "Laptop",
+    "serial": "X1C11-9NQ7-2Z4F",
+    "estado": "Devuelto",
+    "ubicacion": "Ambiente 7201",
+    "fecha_ingreso": "2025-08-30T09:03:00Z",
+    "imagen_url": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&q=80&w=200"
+  },
+  {
+    "id": 4,
+    "nombre": "HP EliteBook 840 G10",
+    "tipo": "Laptop",
+    "serial": "840G10-PL93S0D7",
+    "estado": "Activo",
+    "ubicacion": "Coordinación",
+    "fecha_ingreso": "2025-09-12T11:26:00Z",
+    "imagen_url": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?auto=format&fit=crop&q=80&w=200"
+  },
+  {
+    "id": 5,
+    "nombre": "Apple iPad Pro 2022",
+    "tipo": "Tablet",
+    "serial": "IPP129-22-GH41ZB",
+    "estado": "Activo",
+    "ubicacion": "Auditorio",
+    "fecha_ingreso": "2025-09-14T13:11:00Z",
+    "imagen_url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&q=80&w=200"
+  },
+  {
+    "id": 6,
+    "nombre": "Archer AX6000 (Router)",
+    "tipo": "Redes",
+    "serial": "AX6000-Q3P1D7H9",
+    "estado": "Devuelto",
+    "ubicacion": "Ambiente 4114",
+    "fecha_ingreso": "2025-09-15T09:46:00Z",
+    "imagen_url": "https://plus.unsplash.com/premium_photo-1683262038082-f32bf5280b2d?auto=format&fit=crop&q=80&w=200"
+  },
+  {
+    "id": 7,
+    "nombre": "BenQ TK700STi Proyector",
+    "tipo": "Proyector",
+    "serial": "L3250-9A6F0Q",
+    "estado": "En Reparación",
+    "ubicacion": "Oficina C-2",
+    "fecha_ingreso": "2025-09-10T08:18:00Z",
+    "imagen_url": "https://images.unsplash.com/photo-1554555811-37f0ae272d17?auto=format&fit=crop&q=80&w=200"
+  }
+]
