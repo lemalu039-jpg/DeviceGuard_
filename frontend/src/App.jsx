@@ -9,7 +9,8 @@ import Mantenimiento from './pages/Mantenimiento';
 import Reportes from './pages/Reportes';
 import Inicio from './pages/Inicio';
 import './index.css';
-
+//holaaa
+//holaaaaaaaaaaaaaaaa
 const MainLayout = ({ children }) => {
   return (
     <div className="app-container">
