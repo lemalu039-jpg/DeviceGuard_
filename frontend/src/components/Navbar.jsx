@@ -110,9 +110,9 @@ const Navbar = () => {
         </div>
 
         <div style={{ display: 'flex', alignItems: 'center', gap: '12px', cursor: 'pointer' }}>
-          <img src="https://i.pravatar.cc/150?img=32" alt="Profile" style={{ width: '40px', height: '40px', borderRadius: '50%', objectFit: 'cover' }} />
+          <img src="https://cdn-icons-png.flaticon.com/512/6858/6858504.png" alt="Profile" style={{ width: '40px', height: '40px', borderRadius: '50%', objectFit: 'cover' }} />
           <div style={{ display: 'flex', flexDirection: 'column' }}>
-            <span style={{ fontSize: '0.9rem', fontWeight: '600', color: '#1a1a1a' }}>Juan Montiel</span>
+            <span style={{ fontSize: '0.9rem', fontWeight: '600', color: '#1a1a1a' }}>Wilmar Rondon</span>
             <span style={{ fontSize: '0.75rem', color: 'var(--text-secondary)' }}>Admin</span>
           </div>
           <ChevronDown size={14} color="var(--text-secondary)" />
